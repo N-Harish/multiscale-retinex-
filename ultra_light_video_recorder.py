@@ -1,3 +1,7 @@
+"""
+@author Harish Natarajan
+@project multiscale-retinex
+"""
 import cv2
 import imutils
 import onnxruntime as ort

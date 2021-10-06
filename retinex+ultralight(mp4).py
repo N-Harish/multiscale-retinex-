@@ -1,6 +1,6 @@
 '''
-@author Dereck Jos and Harish Natarajan
-Face Recognition Dlib
+@author Harish Natarajan
+@project retinex-model
 '''
 import face_recognition
 import cv2
